@@ -1,0 +1,54 @@
+body{
+  background:#343a40;
+  margin:auto;
+}
+
+form{
+  margin-left:450px;
+  padding:20px;
+}
+
+input, label{
+  margin-top:5px;
+  width:350px;
+  height:25px;
+}
+
+label{
+  color:white;
+}
+
+.register{
+  margin-left:70px;
+  font-size:22px;
+}
+
+
+.username{
+
+  margin-top:12px;
+}
+
+.email{
+  margin-top:12px;
+}
+
+.password{
+  margin-top:12px;
+}
+
+.password1{
+  margin-top:12px;
+}
+
+button{
+  width:355px;
+  cursor:pointer;
+  height:35px;
+}
+
+
+
+::placeholder{
+  color:black;
+}
